@@ -1,0 +1,110 @@
+[33m8a9f652[m[33m ([m[1;36mHEAD -> [m[1;32mzhaoyicheng[m[33m, [m[1;31morigin/zhaoyicheng[m[33m)[m HEAD@{0}: checkout: moving from master to zhaoyicheng
+[33mf7c0e87[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{1}: checkout: moving from zhaoyicheng to master
+[33m8a9f652[m[33m ([m[1;36mHEAD -> [m[1;32mzhaoyicheng[m[33m, [m[1;31morigin/zhaoyicheng[m[33m)[m HEAD@{2}: commit: merge
+[33m1b33e40[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{3}: commit: 专家图片上传修复
+[33me32372f[m[33m ([m[1;33mtag: 0.0.0.20[m[33m)[m HEAD@{4}: pull origin master: Fast-forward
+[33m8efcb9b[m HEAD@{5}: commit: 1-5 专家 医院管理
+[33mfaef705[m HEAD@{6}: commit: 2018 12-31 人员管理 最后一次提交
+[33m6d0e2bf[m[33m ([m[1;33mtag: 0.0.0.19[m[33m)[m HEAD@{7}: pull origin master: Fast-forward
+[33mf68ce75[m HEAD@{8}: commit: 12-27 区块栏目结构待修改
+[33ma3ce53c[m HEAD@{9}: commit: 添加人员管理 审核管理
+[33m29291e7[m[33m ([m[1;33mtag: 0.0.0.18[m[33m)[m HEAD@{10}: pull origin master: Fast-forward
+[33me5204a5[m HEAD@{11}: commit: 12-25 标签 发beta环境
+[33meaaebae[m[33m ([m[1;33mtag: 0.0.0.17[m[33m)[m HEAD@{12}: pull origin master: Fast-forward
+[33m9bc4284[m HEAD@{13}: commit: add 字段
+[33md635f1e[m[33m ([m[1;33mtag: 0.0.0.16[m[33m)[m HEAD@{14}: pull origin master: Fast-forward
+[33maa98412[m HEAD@{15}: pull origin master: Merge made by the 'recursive' strategy.
+[33m1b92384[m HEAD@{16}: commit: 12-20 注册登陆
+[33m69acc4c[m[33m ([m[1;33mtag: 0.0.0.14[m[33m)[m HEAD@{17}: pull origin master: Fast-forward
+[33m26cac36[m HEAD@{18}: commit: 12-19 ReportUserlogin
+[33m71e458c[m HEAD@{19}: commit: 12-15
+[33mb94b8ad[m[33m ([m[1;33mtag: 0.0.0.13[m[33m)[m HEAD@{20}: pull origin master: Fast-forward
+[33mf9dd823[m HEAD@{21}: commit: 12-15 修复区块bug
+[33m694671e[m HEAD@{22}: commit: 12-15
+[33m43acff5[m HEAD@{23}: commit: 12-14 添加数据分析
+[33m430e05f[m HEAD@{24}: commit: 12-7
+[33m7331658[m HEAD@{25}: commit: 12-7 修复bug
+[33m30fe8c1[m HEAD@{26}: reset: moving to 30fe8c1
+[33me3bc76d[m HEAD@{27}: reset: moving to e3bc76d
+[33me3bc76d[m HEAD@{28}: reset: moving to e3bc76d
+[33m7839247[m HEAD@{29}: reset: moving to 7839247
+[33m30fe8c1[m HEAD@{30}: reset: moving to 30fe8c1
+[33me3bc76d[m HEAD@{31}: reset: moving to e3bc76d
+[33m30fe8c1[m HEAD@{32}: commit: 12-7 SecCard.vue
+[33m7839247[m HEAD@{33}: commit: 12-5 修改一些样式
+[33me3bc76d[m HEAD@{34}: commit: 12-4 个人格式 gov页bug 修复
+[33m827c328[m[33m ([m[1;33mtag: 0.0.0.12[m[33m)[m HEAD@{35}: pull origin master: Fast-forward
+[33mbfd3792[m HEAD@{36}: commit: 12-1 v pub
+[33mca50a66[m[33m ([m[1;33mtag: 0.0.0.11[m[33m)[m HEAD@{37}: pull origin master: Fast-forward
+[33m2a3aa1d[m HEAD@{38}: commit: 11-30 pub
+[33m4b88c98[m HEAD@{39}: commit (merge): 11-29 区块搜索 时间字段
+[33m02e1076[m HEAD@{40}: commit: 11-29 区块搜索 时间字段
+[33ma76ba3c[m HEAD@{41}: commit: 11-28 pub
+[33m2c7c4a2[m HEAD@{42}: commit: 11-26 异步 标签 几个搜索
+[33m40cd762[m HEAD@{43}: commit: 11-24 层级
+[33m25a742f[m HEAD@{44}: commit: 11-20
+[33m2c354be[m HEAD@{45}: commit: 11-20 user
+[33m81a8645[m HEAD@{46}: commit: 11-17 18;22 gov
+[33md88f801[m HEAD@{47}: commit: 11-17 gov
+[33m761be94[m HEAD@{48}: commit: 11-16
+[33mb6ea014[m[33m ([m[1;33mtag: 0.0.0.7[m[33m)[m HEAD@{49}: pull origin master: Fast-forward
+[33m81c7bf1[m[33m ([m[1;33mtag: 0.0.0.5[m[33m)[m HEAD@{50}: pull origin master: Fast-forward
+[33m004b9a5[m HEAD@{51}: commit: 11-14 发版
+[33m8b0cfc6[m HEAD@{52}: reset: moving to 8b0cfc6
+[33m8b0cfc6[m HEAD@{53}: commit: 11-14 修复status =-1 克隆对象
+[33m9d19c05[m HEAD@{54}: commit: 11-13 状态bug
+[33m5826851[m HEAD@{55}: commit: 11-12 修复bug
+[33ma3fa702[m HEAD@{56}: commit: 11-10 20:39
+[33m465ace0[m HEAD@{57}: pull origin master: Merge made by the 'recursive' strategy.
+[33m96e2dc1[m HEAD@{58}: commit: 11-10 19:13
+[33m9b062ec[m HEAD@{59}: commit: 11-10 修改授权请求参数
+[33me82d1dd[m HEAD@{60}: pull origin master: Fast-forward
+[33mafe55f6[m HEAD@{61}: commit: 改README.md
+[33mf650651[m HEAD@{62}: pull origin master: Fast-forward
+[33macf3556[m HEAD@{63}: commit: 11-10 项目编译
+[33mef6b119[m HEAD@{64}: commit: 11-10 1:11
+[33m96c4e05[m HEAD@{65}: commit: 11-9 18:15 课程完成
+[33me307761[m HEAD@{66}: commit: 11-8 18:53
+[33mcac7b87[m HEAD@{67}: commit: 2017 -11- 08 14:28
+[33m6df1524[m HEAD@{68}: commit: course cantegory 11-08 00:06
+[33m9af524b[m HEAD@{69}: commit: 11-7 last
+[33m9b83524[m HEAD@{70}: commit: 11-7 14:50 课程栏目 树结构
+[33m57dfccb[m HEAD@{71}: commit: 11-7 课程栏目重新写
+[33m1b1d3cb[m HEAD@{72}: commit: 11-6 course
+[33m6ccdf72[m HEAD@{73}: commit: 11-6 考试待完成
+[33m31fc4c6[m HEAD@{74}: commit: 11-04 last
+[33m2cd71dd[m HEAD@{75}: commit: 11-4 courseadd edit
+[33md731f86[m HEAD@{76}: commit: 三层菜单
+[33m926ece6[m HEAD@{77}: commit: 11-3 courses
+[33m3e481b8[m HEAD@{78}: commit: 11-3 video
+[33m2d1ce73[m HEAD@{79}: commit: 11-2 视频页列表 编辑
+[33m9efa9fd[m HEAD@{80}: commit: 11-1 课程待开始
+[33m6939869[m HEAD@{81}: commit: 10-31 课程主页
+[33mdbf3343[m HEAD@{82}: commit: 10-31 系统 区块 设置 页面待完成
+[33mebc5527[m HEAD@{83}: commit: 10-31 设置管理完成 待后台数据联调
+[33mebfeb41[m HEAD@{84}: commit: 10-30 区块数据 设置管理 添加 编辑复用待完成
+[33m18cfb64[m HEAD@{85}: commit: 10-28 完成区块
+[33m866ffd0[m HEAD@{86}: commit: 10-27 last
+[33m0b58554[m HEAD@{87}: reset: moving to 0b58554
+[33m1da66cf[m HEAD@{88}: reset: moving to 1da66cf
+[33m0b58554[m HEAD@{89}: commit: add bug
+[33m1da66cf[m HEAD@{90}: commit: 区块修改
+[33me5b7bb6[m HEAD@{91}: commit: 10-26 区块结构
+[33mdea26b0[m HEAD@{92}: commit: 10-25 18:21 权限 添加bug
+[33mda4f121[m HEAD@{93}: commit: 10-25 9:47 角色表单未改成菜单表
+[33m8fe0a26[m HEAD@{94}: commit: 10-24 增删改基本功能实现 未设置权限
+[33mfd9fdd3[m HEAD@{95}: commit: 10-24 待修改角色组 菜单 授权
+[33m780231c[m HEAD@{96}: commit: 10-24 11:22
+[33m899e5a1[m HEAD@{97}: commit: 10-23 修改
+[33mca726da[m HEAD@{98}: commit: 10-23 last
+[33m3d92bad[m HEAD@{99}: commit: 角色组开启路由 10-23 14:52
+[33me33269c[m HEAD@{100}: commit: 10-22 禁用条件判断
+[33m1e1ee1e[m HEAD@{101}: commit: 添加 删除
+[33mca932aa[m HEAD@{102}: commit: 添加角色组绑定id 表单验证 首页过滤搜索
+[33mf7c0e87[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{103}: checkout: moving from master to zhaoyicheng
+[33mf7c0e87[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{104}: commit: 10-20 完成菜单结构 列表页 添加页 删除功能
+[33m3458dfa[m HEAD@{105}: commit: 1019-22:56
+[33m37c0a07[m HEAD@{106}: commit: 管理员列表
+[33m1402297[m HEAD@{107}: reset: moving to 1402297
+[33m1402297[m HEAD@{108}: commit: 1017 左边叶子菜单
+[33m64bcb8c[m HEAD@{109}: commit (initial): 1016
